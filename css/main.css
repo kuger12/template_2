@@ -13,12 +13,16 @@
 
 body {
     overflow-x: hidden;
-    background-color: white;
-    background-color: white;
 }
 
 html {
     scroll-behavior: smooth;
+}
+
+section ,
+header ,
+footer {
+    background-color: white;
 }
 
 .top {
